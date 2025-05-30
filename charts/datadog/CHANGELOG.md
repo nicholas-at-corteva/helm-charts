@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 3.117.0
+
+* Enable local fallback by default when workload autoscaling is enabled.
+
 ## 3.116.3
 
 * Add an option to configure KSM static tags.
